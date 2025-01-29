@@ -4,4 +4,9 @@ target/
 *.jar
 *.war
 *.ear
+*.DS_Store
+*.src/.DS_Store
+
 .idea/
+
+
