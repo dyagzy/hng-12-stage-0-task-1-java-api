@@ -16,8 +16,8 @@ public class BasicInformationController {
   public BasicInformationDTO getBasicInformation() {
 
     return new BasicInformationDTO(
-        "yagzy@gmail.com",
+        "daniel.oyagha@gmail.com",
         DateTimeFormatter.ISO_INSTANT.format(Instant.now()),
-        "https://github.com/dyagzy");
+        "https://github.com/dyagzy/hng-12-stage-0-task-1-java-api");
   }
 }
